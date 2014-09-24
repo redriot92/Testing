@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+	<TITLE>Testing Document</TITLE>
+</HEAD>
+<BODY>
+	This is a testing document
+</BODY>
+</HTML>
